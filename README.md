@@ -7,7 +7,7 @@ Front-End Developer
 I am a 20 year old developer who has always had a great passion for technology. I started developing with HTML at the age of 19. I love coding interfaces so that the user has the best possible experience.
 
 * 🌍  I'm based in Santa Catarina, Brazil
-* 🧠  I'm learning React JS, React Native and Node JS
+* 🧠  I'm learning React JS, Vue JS and Node JS
 * 🤝  I'm open to collaborating on freelance projects
 * ⚡  I work with clean code, CSS BEM and responsive interfaces using the first mobile concept
 
