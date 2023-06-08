@@ -1,15 +1,7 @@
-Hi 👋 My name is Luyane
+Hi 👋 I'm Luyane
 ==========================
 
 Front-End Developer
------------------------------
-
-I am a 20 year old developer who has always had a great passion for technology. I started developing with HTML at the age of 19. I love coding interfaces so that the user has the best possible experience.
-
-* 🌍  I'm based in Santa Catarina, Brazil
-* 🧠  I'm learning React JS, Vue JS and Node JS
-* 🤝  I'm open to collaborating on freelance projects
-* ⚡  I work with clean code, CSS BEM and responsive interfaces using the first mobile concept
 
 ### Skills
 
@@ -20,6 +12,7 @@ I am a 20 year old developer who has always had a great passion for technology. 
 &nbsp &nbsp &nbsp &nbsp
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://br.vuejs.org/images/logo.png" width="36" height="36" alt="Vue Js" /></a>
 <a href="https://jquery.com/download/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="jQuery" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://s3.amazonaws.com/media-p.slid.es/uploads/275559/images/6637674/tailwind.JPG" width="36" height="36" alt="Tailwind" /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
 &nbsp &nbsp &nbsp &nbsp
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
