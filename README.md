@@ -1,8 +1,6 @@
 Hi 👋 I'm Luyane
 ==========================
 
-Front-End Developer
-
 ### Skills
 
 <div class="display: flex">
